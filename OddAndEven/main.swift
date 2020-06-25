@@ -8,5 +8,16 @@
 
 import Foundation
 
-print("Hello, World!")
+print("Selamat Datang di Pencari Nilai Ganjil & Genap")
+print("----------------------------------------------")
+print("Masukan Nilai", terminator: ":"); let total = Int(readLine() ?? "") ?? 0
+
+
+print("================> The Result <================")
+if total % 2 == 0 {
+    print("Nilai \(total) adalah Bilangan Genap")
+} else {
+    print("Nilai \(total) adalah Bilangan Ganjil")
+}
+
 
