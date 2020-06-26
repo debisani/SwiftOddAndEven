@@ -3,7 +3,7 @@ This simple code with Conditional Statements in Swift
 
 Happy & Enjoy
 
-![](mygif.gif)
+![](myGif.gif)
 
 # Code Surgery on the _main file_
 > The default code that the path uses _if else_ 
