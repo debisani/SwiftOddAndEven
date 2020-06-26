@@ -19,6 +19,6 @@ if value % 2 == 0 {
 > Tetapi kamu bisa menggunakan kode ringkas satu garis code saja yang terdapat pada komen dibawah kode default
 
 ```
-let result = **value % 2 == 0 ? "Adalah Bilangan Genap" : "Adalah Bilangan Ganjil"**
+let result = value % 2 == 0 ? "Adalah Bilangan Genap" : "Adalah Bilangan Ganjil"
 print("Nilai \(value), \(result)")
 ```
