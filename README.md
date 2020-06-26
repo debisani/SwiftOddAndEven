@@ -5,7 +5,7 @@ Happy & Enjoy
 
 ![](mygif.gif)
 
-# Bedah Kode pada _file main_
+# Code Surgery on the _main file_
 > kode default yang jalan menggunakan _if else_ 
 
 ```
