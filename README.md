@@ -16,7 +16,7 @@ if value % 2 == 0 {
 }
 ```
 
-> Tetapi kamu bisa menggunakan kode ringkas satu garis code saja yang terdapat pada komen dibawah kode default
+> But you can use only one code line code in the comment below the default code
 
 ```
 let result = value % 2 == 0 ? "Adalah Bilangan Genap" : "Adalah Bilangan Ganjil"
