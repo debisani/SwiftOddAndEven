@@ -4,3 +4,21 @@ This simple code with Conditional Statements in Swift
 Happy & Enjoy
 
 ![](mygif.gif)
+
+# Bedah Kode pada _file main_
+> kode default yang jalan menggunakan _if else_ 
+
+```
+if value % 2 == 0 {
+    print("Nilai \(value) adalah Bilangan Genap")
+} else {
+    print("Nilai \(value) adalah Bilangan Ganjil")
+}
+```
+
+> Tetapi kamu bisa menggunakan kode ringkas satu garis code saja yang terdapat pada komen dibawah kode default
+
+```
+let result = **value % 2 == 0 ? "Adalah Bilangan Genap" : "Adalah Bilangan Ganjil"**
+print("Nilai \(value), \(result)")
+```
