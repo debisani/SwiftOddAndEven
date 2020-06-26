@@ -6,7 +6,7 @@ Happy & Enjoy
 ![](mygif.gif)
 
 # Code Surgery on the _main file_
-> kode default yang jalan menggunakan _if else_ 
+> The default code that the path uses _if else_ 
 
 ```
 if value % 2 == 0 {
